@@ -1,5 +1,7 @@
 # Born2beRoot
 
+![42 School](https://img.shields.io/badge/42%20School-Project-blue)
+
 # What is Born2beRoot?
 
 This project aims to introduce the students to virtualization by creating their first machine in VirtualBox under specific instructions.
